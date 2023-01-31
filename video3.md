@@ -20,3 +20,7 @@ Langkah:
 - Pilih "Create pull request".
 - Buka menu "Pull Requests".
 - Klik "Merge".
+
+## PERCOBAAN
+Membuat Branch
+![Membuat Cabang](Screenshot\buat_cabang.png)

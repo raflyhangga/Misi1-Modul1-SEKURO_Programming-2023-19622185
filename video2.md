@@ -26,3 +26,16 @@
 - Edit file sesuai keinginan.
 - Tulis pesan commitnya.
 - Commit file barunya terhadap branch yang dipilih.
+
+## PERCOBAAN
+Membuat akun:
+![Menambahkan Akun](Screenshot\buat_profil.png)
+
+Membuat Repository Baru:
+![Membuat Repository](Screenshot\buat_repo.png)
+
+Membuat File Baru:
+![Membuat File Baru](Screenshot\buat_file.png)
+
+Mengedit File:
+![Mengedit File](Screenshot\edit_file.png)

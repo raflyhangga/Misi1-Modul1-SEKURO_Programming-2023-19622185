@@ -18,4 +18,7 @@ Riwayat perubahan file disimpan menggunakan serangkaian <strong>commit</strong>.
 ## GitHub
 Layanan cloud untuk menyimpan & mengelola project / repo git.
 
+## SCREENSHOT PERCOBAAN
+(Tidak ada percobaan untuk video ini)
+
 
