@@ -12,3 +12,10 @@ Fork adalah proses duplikasi repository akun lain terhadap akun sendiri. Segala 
 - Pilih tombol "New Pull Request"
 - Apabila terdapat konflik, lakukan compare.
 - Tekan "Create pull request"
+
+## PERCOBAAN
+- Forking
+![Fork](Screenshot\fork.png)
+
+- Pull Request
+![Pull Request](Screenshot\pull_req.png)

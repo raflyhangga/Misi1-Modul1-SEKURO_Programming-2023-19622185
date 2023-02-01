@@ -22,5 +22,10 @@ Langkah:
 - Klik "Merge".
 
 ## PERCOBAAN
-Membuat Branch
+- Membuat Branch
+
 ![Membuat Cabang](Screenshot\buat_cabang.png)
+
+- Merge Cabang
+
+![Merging Cabang](Screenshot\merge.png)

@@ -50,3 +50,14 @@ Area pada repo GIT:
 - Masukkan command "mengecek hasil commit"
 - Pilih commit yang ingin dituju dengan menyimpan lima angka hash pertama.
 - Masukkan command checkout beserta angka hash tersebut.
+
+## PERCOBAAN
+
+- Initialize Git
+![Initialize Git](Screenshot\init_git.png)
+
+- Commit
+![Commit](Screenshot\commitbash.png)
+
+- Checkout
+![Checkout](Screenshot\checkoutbash.png)

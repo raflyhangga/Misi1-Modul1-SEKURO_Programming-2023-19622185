@@ -34,3 +34,14 @@ Three-way Merge: Tidak ada direct path, terbuat commit baru.
 - Masukkan command merge terhadap branch yang ingin di merge.
 - Masukkan pesan commit.
 - Apabila ingin menghapus branch, masukkan command hapus branch.
+
+## PERCOBAAN
+
+- Branch
+![Branch](Screenshot\cabangbranch.png)
+
+- Merge (Fast Forward)
+![Merge Fast Forward](Screenshot\ffmerge.png)
+
+- Merge (Three-way Merge)
+![Three Way](Screenshot\twmerge.png)
